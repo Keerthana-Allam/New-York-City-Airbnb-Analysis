@@ -100,13 +100,14 @@ The plot provides a clear visual understanding of the price range for each listi
 ![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/188bc015-b108-4fd2-b6ce-fcd805972d1d)    
 ## 5. Scatter Map Plot: Geographical Distribution of NYC Airbnb Listings    
 The plot provides an insightful visualization of the diverse geographical distribution of listings. The color-coded markers offer a quick identification of different room types, aiding users in assessing location preferences for their Airbnb stay.   
-![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/0a4babf5-fec6-4b7c-a4be-84c94a230ea4)    
+![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/4eef54c0-800a-46e5-aae4-4b8c0b506697) 
 ## 6. Bar Chart: Average Listing Prices by Neighborhood Groups in NYC    
 Manhattan stands out with the highest average listing price, reaching around $197. This insight emphasizes the diverse pricing landscape across NYC neighborhoods, providing valuable information for potential guests and investors.   
-![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/e61f6107-b9ee-4a7a-bcdb-d6ac89d5e37d)   
+![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/136fb312-fc0d-470f-9251-c2201ae64b46)
 ## 7. Scatter Plot/Density Heat Map: Concentration and Pricing Variations in NYC Listings   
 Observing the visualization, it's evident that Manhattan and Brooklyn exhibit higher-priced and densely concentrated listings. This spatial insight is crucial for understanding the pricing dynamics and popular locations within the vibrant NYC landscape.    
-![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/15b47cef-07d4-4ea7-9432-5e8ad8b1e6c4)   
+![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/ae0c1d0e-48ff-4719-a854-5521b2dc8b56)
+  
 
 
 
