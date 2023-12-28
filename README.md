@@ -15,7 +15,7 @@ Employing latitude/longitude coordinates for geographical visualization and anal
 # Code and Resources Used:   
 ## Dataset   
 The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/thedevastator/airbnbs-nyc-overview). It comprises a dataset of size [48896*16] with columns including listing names, host details, location coordinates, pricing, and availability metrics.   
-**Python Version:** 3.10
+**Python Version:** 3.10   
 **Packages:** sqlite3, pandas, numpy, tabulate, folium, matplotlib, seaborn, plotly, dash, scikit-learn, scipy
 
 # Metadata   
