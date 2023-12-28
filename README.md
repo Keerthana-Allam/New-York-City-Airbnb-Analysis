@@ -53,13 +53,11 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/thedevast
    
 ## Host Table:    
 
-|   | HostID | HostName | NumberOfListings |
-|---|--------|----------|-------------------|
-| 0 |  2438  |  Tasos   |        1          |
-| 1 |  2571  |  Teedo   |        1          |
-| 2 |  2787  |   John   |        6          |
-| 3 |  2845  | Jennifer |        2          |
-| 4 |  2868  | Letha M. |        1          |
+| Column Name                    | Description                                           |   
+| ------------------------------ | ----------------------------------------------------- |  
+| host_id                        | The id of the host of the Airbnb listing. (Integer)   |
+| host_name                      | The name of the host of the Airbnb listing. (String)  |
+| calculated_host_listings_count | The total number of listings the host has. (Integer)  |
 
 
 
