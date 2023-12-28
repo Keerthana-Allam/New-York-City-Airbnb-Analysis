@@ -45,10 +45,22 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/thedevast
 • Parsed the TSV file to extract the header and listing data.   
 • Cleaned the data by renaming columns, removing unwanted columns, and handling missing values.   
 # Normalization
-• Created an SQLite database and set up tables for Host, Neighborhood, and Listings.
-• Normalized the data to eliminate transitive dependencies, improving data integrity.   
+• Created an SQLite database and set up tables for Host, Neighborhood, and Listings.   
+• Normalized the data to eliminate transitive dependencies, improving data integrity.    
+• We have created a normalized database comprising 3 tables: a Host Table (HostID primary key), a Neighborhood Table (NeighborhoodID primary key), and a Listing Table (ListingID primary key) that has both HostID and NeighborhoodID as Foreign keys.
 
 ![Relational Schema](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/aec40a63-2ed5-42f7-8e9e-36e660aa997c)
+## Host Table:   
++---+--------+----------+------------------+
+|   | HostID | HostName | NumberOfListings |
++---+--------+----------+------------------+
+| 0 |  2438  |  Tasos   |        1         |
+| 1 |  2571  |  Teedo   |        1         |
+| 2 |  2787  |   John   |        6         |
+| 3 |  2845  | Jennifer |        2         |
+| 4 |  2868  | Letha M. |        1         |
++---+--------+----------+------------------+
+
 
 
 
