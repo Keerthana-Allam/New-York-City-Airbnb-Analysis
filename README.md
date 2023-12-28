@@ -1,6 +1,6 @@
 # New-York-City-Airbnb-Analysis: Project Overview
 New York City Airbnb Market Analysis and Price Prediction
-Analyzing the dynamic NYC Airbnb market: Predicting prices, exploring geographical trends, and understanding key factors. Utilized predictive modeling and interactive dashboards for comprehensive insights. Team project by [@Nihith Nath Kandikattu](https://github.com/nihith-nath), [@Keerthana Allam](https://github.com/Keerthana-Allam), [Hithesh Kumar Duttuluri](https://github.com/hith777), and Charan Sai Pandaraboyina.
+Analyzing the dynamic NYC Airbnb market: Predicting prices, exploring geographical trends, and understanding key factors. Utilized predictive modeling and interactive dashboards for comprehensive insights. Team project by [@Nihith Nath Kandikattu](https://github.com/nihith-nath), [@Keerthana Allam](https://github.com/Keerthana-Allam), [@Hithesh Kumar Duttuluri](https://github.com/hith777), and Charan Sai Pandaraboyina.
 
 # Problem Statement   
 
@@ -83,6 +83,13 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/thedevast
 | NumberOfReviews             | The total number of reviews the Airbnb listing has received. (Integer) |
 | MonthlyReviewRate             | The average number of reviews the Airbnb listing receives per month. (Float) |
 | Availability_365               | The number of days the Airbnb listing is available for booking in a year. (Integer) |  
+
+# Exploratory Data Analysis (EDA)   
+In this phase, we delve into the Airbnb dataset for New York City, aiming to uncover meaningful patterns, trends, and insights that lay the groundwork for informed decision-making.    
+## Donut Chart: percentage distribution of Airbnb listings across different neighborhood groups in New York City.
+![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/0200386f-313c-464e-b2eb-3d34a87c663b)
+
+
 
 
 
