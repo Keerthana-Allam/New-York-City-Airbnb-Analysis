@@ -51,16 +51,16 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/thedevast
 
 ![Relational Schema](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/aec40a63-2ed5-42f7-8e9e-36e660aa997c)
    
-## Host Table:   
-+---+--------+----------+------------------+
+## Host Table:    
+
 |   | HostID | HostName | NumberOfListings |
-+---+--------+----------+------------------+
-| 0 |  2438  |  Tasos   |        1         |
-| 1 |  2571  |  Teedo   |        1         |
-| 2 |  2787  |   John   |        6         |
-| 3 |  2845  | Jennifer |        2         |
-| 4 |  2868  | Letha M. |        1         |
-+---+--------+----------+------------------+
+|---|--------|----------|-------------------|
+| 0 |  2438  |  Tasos   |        1          |
+| 1 |  2571  |  Teedo   |        1          |
+| 2 |  2787  |   John   |        6          |
+| 3 |  2845  | Jennifer |        2          |
+| 4 |  2868  | Letha M. |        1          |
+
 
 
 
