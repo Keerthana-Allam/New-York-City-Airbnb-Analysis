@@ -88,22 +88,22 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/thedevast
 In this phase, we delve into the Airbnb dataset for New York City, aiming to uncover meaningful patterns, trends, and insights that lay the groundwork for informed decision-making.    
 ## 1. Donut Chart: Airbnb Listings Distribution by Neighborhood Groups.      
 Manhattan and Brooklyn dominate the NYC Airbnb market, commanding over 80%. Manhattan leads with 44.3%, followed closely by Brooklyn at 41.1%. This concentration underscores their significance for investors and travelers alike.    
-![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/c796933d-cfb2-43d7-b850-0426ef989cf5)    
+![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/7c30156a-294c-4410-98d7-727921b55616)  
 ## 2. Stacked Column Chart: Airbnb Listings by Availability and Location   
 The chart reveals a significant concentration of listings (40%) within the 0-20 days availability bin, emphasizing a robust presence of short-term rental options. This insight is crucial for those seeking dynamic and flexible accommodation choices in the city.   
 ![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/db54b5b3-af3e-4cc6-b0f0-3015b2fb0f7b)     
 ## 3. Horizontal Bar Chart: Airbnb Listings by Type    
 "Entire home/apt" dominates Airbnb listings at 52%, followed by "Private room" at 45.6%, and "Shared room" at just 2.37%. The data underscores a clear preference for entire home rentals in the NYC market.   
-![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/dc9237b3-cdb9-46d5-ba6b-610fadc48429)   
+![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/f3ae54d9-11d8-457d-9bf6-3b41a3dea631)          
 ## 4. Scatter Plot: Price Distribution by Room Type and Neighborhood Group    
 The plot provides a clear visual understanding of the price range for each listing type. This insight aids potential guests in assessing accommodation options based on their budget and preferences.    
-![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/188bc015-b108-4fd2-b6ce-fcd805972d1d)    
+![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/31683df4-5ead-4446-b434-a07e63b99e73)    
 ## 5. Scatter Map Plot: Geographical Distribution of NYC Airbnb Listings    
 The plot provides an insightful visualization of the diverse geographical distribution of listings. The color-coded markers offer a quick identification of different room types, aiding users in assessing location preferences for their Airbnb stay.   
-![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/4eef54c0-800a-46e5-aae4-4b8c0b506697) 
+![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/4270bd52-c9c5-4049-9976-bb7e6c659ae5)    
 ## 6. Bar Chart: Average Listing Prices by Neighborhood Groups in NYC    
 Manhattan stands out with the highest average listing price, reaching around $197. This insight emphasizes the diverse pricing landscape across NYC neighborhoods, providing valuable information for potential guests and investors.   
-![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/136fb312-fc0d-470f-9251-c2201ae64b46)
+![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/61bc2142-d890-4c6b-9830-e7f1a2f52168)    
 ## 7. Scatter Plot/Density Heat Map: Concentration and Pricing Variations in NYC Listings   
 Observing the visualization, it's evident that Manhattan and Brooklyn exhibit higher-priced and densely concentrated listings. This spatial insight is crucial for understanding the pricing dynamics and popular locations within the vibrant NYC landscape.    
 ![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/ae0c1d0e-48ff-4719-a854-5521b2dc8b56)
