@@ -20,9 +20,9 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/thedevast
 
 # Metadata   
 
-| Column Name                    | Description                                           |
-| ------------------------------ | ----------------------------------------------------- |
-| listing_id                     | The unique id of the Airbnb listing. (Integer)        |
+| Column Name                    | Description                                           |   
+| ------------------------------ | ----------------------------------------------------- |   
+| listing_id                     | The unique id of the Airbnb listing. (Integer)        |   
 | listing_name                   | The name of the Airbnb listing. (String)              |
 | host_id                        | The id of the host of the Airbnb listing. (Integer)   |
 | host_name                      | The name of the host of the Airbnb listing. (String)  |
@@ -38,6 +38,7 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/thedevast
 | reviews_per_month              | The average number of reviews the Airbnb listing receives per month. (Float) |
 | calculated_host_listings_count | The total number of listings the host has. (Integer)  |
 | availability_365               | The number of days the Airbnb listing is available for booking in a year. (Integer) |
+
 
 
 
