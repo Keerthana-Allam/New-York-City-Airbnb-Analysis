@@ -55,9 +55,37 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/thedevast
 
 | Column Name                    | Description                                           |   
 | ------------------------------ | ----------------------------------------------------- |  
-| host_id                        | The id of the host of the Airbnb listing. (Integer)   |
-| host_name                      | The name of the host of the Airbnb listing. (String)  |
-| calculated_host_listings_count | The total number of listings the host has. (Integer)  |
+| HostID                      | The id of the host of the Airbnb listing. (Integer)   |
+| HostName                      | The name of the host of the Airbnb listing. (String)  |
+| NumberOfListings| The total number of listings the host has. (Integer)  |
+
+## Neighborhood Table:    
+
+| Column Name                    | Description                                           |   
+| ------------------------------ | ----------------------------------------------------- |  
+|NeighborhoodID                   | The id of the neighbourhood of the Airbnb listing. (Integer)   |
+| Neighborhood                   | Neighborhood information for each listing (String)    |
+| neighbourhood_grp              | The neighbourhood group the Airbnb listing is located in. (String) |
+
+## Listing Table:    
+
+| Column Name                    | Description                                           |   
+| ------------------------------ | ----------------------------------------------------- |  
+| ListingID                    | The unique id of the Airbnb listing. (Integer)        |   
+| ListingName                | The name of the Airbnb listing. (String)              |
+| HostID                      | The id of the host of the Airbnb listing. (Integer)   |
+|NeighborhoodID                   | The id of the neighbourhood of the Airbnb listing. (Integer)   |
+| latitude                       | The latitude coordinate of the Airbnb listing. (Float) |
+| longitude                      | The longitude coordinate of the Airbnb listing. (Float)|
+|  ListingType                      | The type of room offered by the Airbnb listing. (String)|
+| price                          | The price per night of the Airbnb listing. (Integer)  |
+| MinimumNights               | The minimum number of nights required for booking the Airbnb listing. (Integer) |
+| NumberOfReviews             | The total number of reviews the Airbnb listing has received. (Integer) |
+| MonthlyReviewRate             | The average number of reviews the Airbnb listing receives per month. (Float) |
+| Availability_365               | The number of days the Airbnb listing is available for booking in a year. (Integer) |  
+
+
+
 
 
 
