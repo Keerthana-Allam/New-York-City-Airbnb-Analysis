@@ -1,6 +1,6 @@
 # New-York-City-Airbnb-Analysis: Project Overview
 New York City Airbnb Market Analysis and Price Prediction
-Analyzing the dynamic NYC Airbnb market: Predicting prices, exploring geographical trends, and understanding key factors. Utilized predictive modeling and interactive dashboards for comprehensive insights. Team project by [@Nihith Nath Kandikattu](https://github.com/nihith-nath), [@Keerthana Allam](https://github.com/Keerthana-Allam), Hithesh Kumar Duttuluri, and Charan Sai Pandaraboyina.
+Analyzing the dynamic NYC Airbnb market: Predicting prices, exploring geographical trends, and understanding key factors. Utilized predictive modeling and interactive dashboards for comprehensive insights. Team project by [@Nihith Nath Kandikattu](https://github.com/nihith-nath), [@Keerthana Allam](https://github.com/Keerthana-Allam), [Hithesh Kumar Duttuluri](https://github.com/hith777), and Charan Sai Pandaraboyina.
 
 # Problem Statement   
 
