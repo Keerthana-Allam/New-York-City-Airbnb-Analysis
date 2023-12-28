@@ -12,6 +12,33 @@ Investigating geographical distribution, pricing  dynamics, customer experiences
 ## Data Utilization:   
 Employing latitude/longitude coordinates for geographical visualization and analyzing essential metrics such as price, reviews, and availability to derive meaningful insights from the dataset.  
 
-## Data Source:   
-The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/thedevastator/airbnbs-nyc-overview). It comprises a dataset of size [48896*16] with columns including listing names, host details, location coordinates, pricing, and availa
+# Code and Resources Used:   
+## Dataset   
+The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/thedevastator/airbnbs-nyc-overview). It comprises a dataset of size [48896*16] with columns including listing names, host details, location coordinates, pricing, and availability metrics.   
+**Python Version:** 3.10
+**Packages:** sqlite3, pandas, numpy, tabulate, folium, matplotlib, seaborn, plotly, dash, scikit-learn, scipy
+
+# Metadata   
+
+|Column Name|Description|   
+|__________ |___________|
+|listing_id	| The unique id of the Airbnb listing. (Integer)|
+|listing_name	| The name of the Airbnb listing. (String)|
+|host_id|The id of the host of the Airbnb listing. (Integer)|
+|host_name	|The name of the host of the Airbnb listing. (String)|
+|neighbourhood_grp|	The neighbourhood group the Airbnb listing is located in. (String)|
+|Neighborhood	|Neighborhood information for each listing (String)|
+|latitude	|The latitude coordinate of the Airbnb listing. (Float)|
+|longitude|	The longitude coordinate of the Airbnb listing. (Float)|
+|room_type	|The type of room offered by the Airbnb listing. (String)|
+|price	|The price per night of the Airbnb listing. (Integer)|
+|minimum_nights|	The minimum number of nights required for booking the Airbnb listing. (Integer)|
+|number_of_reviews|	The total number of reviews the Airbnb listing has received. (Integer)|
+|last_review	|The date of the last review the Airbnb listing has received. (Date)|
+|reviews_per_month|	The average number of reviews the Airbnb listing receives per month. (Float)
+|calculated_host_listings_count|	The total number of listings the host has. (Integer)
+|availability_365|	The number of days the Airbnb listing is available for booking in a year. (Integer)|
+
+
+
 
