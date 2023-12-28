@@ -115,8 +115,8 @@ Observing the visualization, it's evident that Manhattan and Brooklyn exhibit hi
 # Conclusion    
 In conclusion, our project conducted an in-depth analysis of the dynamic New York City Airbnb market, revealing significant 
 insights. We meticulously explored room availability, categorized neighborhoods, and pinpointed locations near key tourist 
-attractions and below are our key findings and insights.
-**KEY FINDINGS:**    
+attractions and below are our key findings and insights.    
+## KEY FINDINGS:    
 **Geographical Trends:**    
 • Manhattan and Brooklyn are the most dominant areas in terms of both listing count and prices.    
 • Airbnb listings are densely concentrated around popular tourist spots, including Times Square, the Empire State Building, and Central Park.    
