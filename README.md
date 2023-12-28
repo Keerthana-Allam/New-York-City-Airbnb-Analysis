@@ -8,14 +8,11 @@ In the ever-changing landscape of the New York City Airbnb market, our project a
 
 ---
 #**#Key  Focus  Areas:** 
----
 Investigating geographical distribution, pricing  dynamics, customer experiences, and  availability patterns in the dataset to inform strategic decisions for both hosts and guests to enhance the overall Airbnb experience.  
 ___
 ##**Data Utilization:**
-___
 Employing latitude/longitude coordinates for geographical visualization and analyzing essential metrics such as price, reviews, and availability to derive meaningful insights from the dataset. 
 ___
 ##**Data Source:** 
-___
 The dataset was obtained from Kaggle. It comprises a dataset of size [48896*16] with columns including listing names, host details, location coordinates, pricing, and availa
 
