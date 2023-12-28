@@ -39,7 +39,17 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/thedevast
 | last_review                    | The date of the last review the Airbnb listing has received. (Date) |
 | reviews_per_month              | The average number of reviews the Airbnb listing receives per month. (Float) |
 | calculated_host_listings_count | The total number of listings the host has. (Integer)  |
-| availability_365               | The number of days the Airbnb listing is available for booking in a year. (Integer) |
+| availability_365               | The number of days the Airbnb listing is available for booking in a year. (Integer) |   
+
+# Data Cleaning
+• Parsed the TSV file to extract the header and listing data.   
+• Cleaned the data by renaming columns, removing unwanted columns, and handling missing values.   
+# Normalization
+• Created an SQLite database and set up tables for Host, Neighborhood, and Listings.
+• Normalized the data to eliminate transitive dependencies, improving data integrity.   
+
+![Relational Schema](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/aec40a63-2ed5-42f7-8e9e-36e660aa997c)
+
 
 
 
