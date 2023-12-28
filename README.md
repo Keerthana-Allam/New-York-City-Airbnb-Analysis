@@ -21,7 +21,7 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/thedevast
 # Metadata   
 
 |Column Name|Description|   
-|__________ |___________|
+|_ _ _ _ _ _ |_ _ _ _ _ _|
 |listing_id	| The unique id of the Airbnb listing. (Integer)|
 |listing_name	| The name of the Airbnb listing. (String)|
 |host_id|The id of the host of the Airbnb listing. (Integer)|
