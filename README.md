@@ -91,6 +91,21 @@ Manhattan and Brooklyn dominate the NYC Airbnb market, commanding over 80%. Manh
 
 ![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/0200386f-313c-464e-b2eb-3d34a87c663b)
 
+## Stacked Column Chart: Airbnb Listings by Availability and Location   
+The chart reveals a significant concentration of listings (40%) within the 0-20 days availability bin, emphasizing a robust presence of short-term rental options. This insight is crucial for those seeking dynamic and flexible accommodation choices in the city.   
+
+![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/ed35aed5-c933-4e09-b489-466bedbb0649)   
+## Horizontal Bar Chart: Airbnb Listings by Type    
+"Entire home/apt" dominates Airbnb listings at 52%, followed by "Private room" at 45.6%, and "Shared room" at just 2.37%. The data underscores a clear preference for entire home rentals in the NYC market.   
+
+![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/2d3c935d-a565-4c25-a199-fa01805212f5)   
+## Scatter Plot: Price Distribution by Room Type and Neighborhood Group    
+The plot provides a clear visual understanding of the price range for each listing type. This insight aids potential guests in assessing accommodation options based on their budget and preferences.    
+![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/188bc015-b108-4fd2-b6ce-fcd805972d1d)   
+
+
+
+
 
 
 
