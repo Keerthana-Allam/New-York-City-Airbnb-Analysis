@@ -106,7 +106,28 @@ Manhattan stands out with the highest average listing price, reaching around $19
 ![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/61bc2142-d890-4c6b-9830-e7f1a2f52168)    
 ## 7. Scatter Plot/Density Heat Map: Concentration and Pricing Variations in NYC Listings   
 Observing the visualization, it's evident that Manhattan and Brooklyn exhibit higher-priced and densely concentrated listings. This spatial insight is crucial for understanding the pricing dynamics and popular locations within the vibrant NYC landscape.    
-![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/ae0c1d0e-48ff-4719-a854-5521b2dc8b56)
+![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/ae0c1d0e-48ff-4719-a854-5521b2dc8b56)    
+# Combining Data and Correlation Analysis:
+• Combined data from normalized database tables.    
+• Analyzed the correlation matrix to identify relationships between variables.    
+• Strong Negative Co-relation of Listing Type and Longitude Predictors with Price has been observed.    
+![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/204c4d15-60e3-47fb-9857-f3cfe2ddaa0e)    
+# Conclusion    
+In conclusion, our project conducted an in-depth analysis of the dynamic New York City Airbnb market, revealing significant 
+insights. We meticulously explored room availability, categorized neighborhoods, and pinpointed locations near key tourist 
+attractions and below are our key findings and insights.
+**KEY FINDINGS:**    
+**Geographical Trends:**    
+• Manhattan and Brooklyn are the most dominant areas in terms of both listing count and prices.    
+• Airbnb listings are densely concentrated around popular tourist spots, including Times Square, the Empire State Building, and Central Park.    
+**Listing Type:**    
+• Entire apartments are the most popular listing type in New York City.    
+**Availability Analysis:**    
+• Most Airbnb listings exhibit limited availability throughout the year.    
+• The scarcity of short-term rentals in NYC contributes to elevated prices.    
+**Correlation Analysis:**    
+• The correlation matrix suggests that the prices of Airbnb listings in NYC are majorly influenced by the listing type and longitude, suggesting there is a notable relationship between the type of listing (such as entire home/apartment or private room) and the geographical location (longitude) with the pricing of the listings.    
+
   
 
 
