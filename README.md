@@ -86,7 +86,9 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/thedevast
 
 # Exploratory Data Analysis (EDA)   
 In this phase, we delve into the Airbnb dataset for New York City, aiming to uncover meaningful patterns, trends, and insights that lay the groundwork for informed decision-making.    
-## Donut Chart: percentage distribution of Airbnb listings across different neighborhood groups in New York City.
+## Donut Chart: Percentage distribution of Airbnb listings across different neighborhood groups in New York City.   
+Manhattan and Brooklyn dominate the NYC Airbnb market, commanding over 80%. Manhattan leads with 44.3%, followed closely by Brooklyn at 41.1%. This concentration underscores their significance for investors and travelers alike.
+
 ![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/0200386f-313c-464e-b2eb-3d34a87c663b)
 
 
