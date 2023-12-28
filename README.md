@@ -88,13 +88,13 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/thedevast
 In this phase, we delve into the Airbnb dataset for New York City, aiming to uncover meaningful patterns, trends, and insights that lay the groundwork for informed decision-making.    
 ## 1. Donut Chart: Airbnb Listings Distribution by Neighborhood Groups.      
 Manhattan and Brooklyn dominate the NYC Airbnb market, commanding over 80%. Manhattan leads with 44.3%, followed closely by Brooklyn at 41.1%. This concentration underscores their significance for investors and travelers alike.    
-![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/0200386f-313c-464e-b2eb-3d34a87c663b)    
+![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/c796933d-cfb2-43d7-b850-0426ef989cf5)    
 ## 2. Stacked Column Chart: Airbnb Listings by Availability and Location   
 The chart reveals a significant concentration of listings (40%) within the 0-20 days availability bin, emphasizing a robust presence of short-term rental options. This insight is crucial for those seeking dynamic and flexible accommodation choices in the city.   
-![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/ed35aed5-c933-4e09-b489-466bedbb0649)   
+![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/db54b5b3-af3e-4cc6-b0f0-3015b2fb0f7b)     
 ## 3. Horizontal Bar Chart: Airbnb Listings by Type    
 "Entire home/apt" dominates Airbnb listings at 52%, followed by "Private room" at 45.6%, and "Shared room" at just 2.37%. The data underscores a clear preference for entire home rentals in the NYC market.   
-![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/2d3c935d-a565-4c25-a199-fa01805212f5)   
+![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/dc9237b3-cdb9-46d5-ba6b-610fadc48429)   
 ## 4. Scatter Plot: Price Distribution by Room Type and Neighborhood Group    
 The plot provides a clear visual understanding of the price range for each listing type. This insight aids potential guests in assessing accommodation options based on their budget and preferences.    
 ![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/188bc015-b108-4fd2-b6ce-fcd805972d1d)    
