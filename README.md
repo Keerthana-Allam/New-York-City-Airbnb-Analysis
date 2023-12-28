@@ -89,7 +89,7 @@ In this phase, we delve into the Airbnb dataset for New York City, aiming to unc
 ## Donut Chart: Percentage distribution of Airbnb listings across different neighborhood groups in New York City.   
 Manhattan and Brooklyn dominate the NYC Airbnb market, commanding over 80%. Manhattan leads with 44.3%, followed closely by Brooklyn at 41.1%. This concentration underscores their significance for investors and travelers alike.
 
-![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/0200386f-313c-464e-b2eb-3d34a87c663b)
+![image](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/0200386f-313c-464e-b2eb-3d34a87c663b)    
 
 ## Stacked Column Chart: Airbnb Listings by Availability and Location   
 The chart reveals a significant concentration of listings (40%) within the 0-20 days availability bin, emphasizing a robust presence of short-term rental options. This insight is crucial for those seeking dynamic and flexible accommodation choices in the city.   
