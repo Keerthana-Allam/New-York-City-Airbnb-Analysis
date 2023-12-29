@@ -49,7 +49,8 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/thedevast
 • Normalized the data to eliminate transitive dependencies, improving data integrity.    
 • We have created a normalized database comprising 3 tables: a Host Table (HostID primary key), a Neighborhood Table (NeighborhoodID primary key), and a Listing Table (ListingID primary key) that has both HostID and NeighborhoodID as Foreign keys.   
 
-![Relational Schema](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/aec40a63-2ed5-42f7-8e9e-36e660aa997c)
+![Relational Schema](https://github.com/Keerthana-Allam/New-York-City-Airbnb-Analysis/assets/150170576/aec40a63-2ed5-42f7-8e9e-36e660aa997c)    
+(1. Donut Chat.png)
    
 ## Host Table:    
 
