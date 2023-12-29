@@ -49,7 +49,7 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/thedevast
 • Normalized the data to eliminate transitive dependencies, improving data integrity.    
 • We have created a normalized database comprising 3 tables: a Host Table (HostID primary key), a Neighborhood Table (NeighborhoodID primary key), and a Listing Table (ListingID primary key) that has both HostID and NeighborhoodID as Foreign keys.   
    
-![Relational_Schema](Relational_Schema.png)
+![Relational_Schema](Relational_Schema.jpg)
    
 ## Host Table:    
 
