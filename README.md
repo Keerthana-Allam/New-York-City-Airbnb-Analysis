@@ -133,7 +133,8 @@ attractions and below are our key findings and insights.
 • Most Airbnb listings exhibit limited availability throughout the year.    
 • The scarcity of short-term rentals in NYC contributes to elevated prices.    
 **Correlation Analysis:**    
-• The correlation matrix suggests that the prices of Airbnb listings in NYC are majorly influenced by the listing type and longitude, suggesting there is a notable relationship between the type of listing (such as entire home/apartment or private room) and the geographical location (longitude) with the pricing of the listings.    
+• The correlation matrix suggests that the prices of Airbnb listings in NYC are majorly influenced by the listing type and longitude, suggesting there is a notable relationship between the type of listing (such as entire home/apartment or private room) and the geographical location (longitude) with the pricing of the listings.   
+Additionally, for a more detailed exploration of the project outcomes, you can download the HTML version of the notebook [here]([https://github.com/nihith-nath](https://colab.research.google.com/drive/1SSi82EJUmMfPaQrFnNmbk6wbHu0uzFRW#scrollTo=43JH17HGNh9k)https://colab.research.google.com/drive/1SSi82EJUmMfPaQrFnNmbk6wbHu0uzFRW#scrollTo=43JH17HGNh9k).
 
   
 
