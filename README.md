@@ -107,6 +107,10 @@ Manhattan stands out with the highest average listing price, reaching around $19
 ## 7. Scatter Plot/Density Heat Map: Concentration and Pricing Variations in NYC Listings   
 Observing the visualization, it's evident that Manhattan and Brooklyn exhibit higher-priced and densely concentrated listings. This spatial insight is crucial for understanding the pricing dynamics and popular locations within the vibrant NYC landscape.    
 ![image](7_Scatter_Plot_Density_Heat_Map.png)    
+# Data Transformation and Predictive Modeling:    
+
+To mitigate the impact of right-skewness in the original distribution of Airbnb listing prices, a logarithmic transformation was implemented during the analysis. This transformation aimed to create a more symmetrical distribution, thus improving the overall reliability of the dataset for subsequent analytical and modeling purposes. Moving forward, predictive modeling was executed using both Linear Regression and Ridge Regression models to forecast listing prices. Rigorous model evaluation ensued, employing key metrics such as Mean Absolute Error, Mean Squared Error, and R-squared. The study also included visualizations comparing actual and predicted prices, providing a comprehensive assessment of the models' accuracy in capturing variations in listing prices.
+
 # Combining Data and Correlation Analysis:
 • Combined data from normalized database tables.    
 • Analyzed the correlation matrix to identify relationships between variables.    
