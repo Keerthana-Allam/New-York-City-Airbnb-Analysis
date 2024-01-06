@@ -109,6 +109,9 @@ Observing the visualization, it's evident that Manhattan and Brooklyn exhibit hi
 ![image](7_Scatter_Plot_Density_Heat_Map.png)    
 # Data Transformation and Predictive Modeling:    
 To mitigate the impact of right-skewness in the original distribution of Airbnb listing prices, a logarithmic transformation was implemented during the analysis. This transformation aimed to create a more symmetrical distribution, thus improving the overall reliability of the dataset for subsequent analytical and modeling purposes. Moving forward, predictive modeling was executed using both Linear Regression and Ridge Regression models to forecast listing prices. Rigorous model evaluation ensued, employing key metrics such as Mean Absolute Error, Mean Squared Error, and R-squared. The study also included visualizations comparing actual and predicted prices, providing a comprehensive assessment of the models' accuracy in capturing variations in listing prices.    
+| Column Name                    | Description                                           |   
+| ------------------------------ | ----------------------------------------------------- |   
+| ![image](right_skewed_graph.png)| ![image](post_data_transformation.png)         |
 ![image](right_skewed_graph.png)   
 ![image](post_data_transformation.png)   
 
